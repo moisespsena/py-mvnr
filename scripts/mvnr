@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+'''
+Created on 08/12/2011
+
+@author: Moises P. Sena "<moisespsena" + "@" + "gmail.com>"
+'''
+from mvnr.Main import main
+import sys
+
+if __name__ == '__main__':
+    main(sys.argv)
